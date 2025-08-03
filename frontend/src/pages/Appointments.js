@@ -94,7 +94,7 @@ const Appointments = () => {
       <div className="pt-20 px-6 py-8 max-w-6xl mx-auto">
         {/* Header Section */}
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-6">
+          <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-6 mt-32 md:mt-12">
             My Appointments
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">

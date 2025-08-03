@@ -118,7 +118,7 @@ const DoctorDetail = () => {
       <div className="h-screen pt-20 px-6 py-8 flex justify-center items-center">
         <div className="max-w-4xl w-full">
           {/* Doctor Profile Card */}
-          <div className="bg-white/80 backdrop-blur-md rounded-3xl shadow-2xl border border-white/50 p-8 mb-8 transform hover:scale-[1.01] transition-all duration-300">
+          <div className="bg-white/80 backdrop-blur-md rounded-3xl shadow-2xl border border-white/50 p-8 mb-8 transform hover:scale-[1.01] transition-all duration-300 mt-60 md:mt-12">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               {/* Doctor Image */}
               <div className="flex justify-center">
