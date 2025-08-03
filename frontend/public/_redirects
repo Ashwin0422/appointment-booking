@@ -1,0 +1,7 @@
+# Handle client-side routing
+/*    /index.html   200
+
+# Handle specific routes
+/login    /index.html   200
+/appointments    /index.html   200
+/doctor/*    /index.html   200 

@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import DoctorCard from '../components/DoctorCard';
-import { Oval } from 'react-loader-spinner';
 import Cookies from 'js-cookie';
 import Header from '../components/Header';
 
