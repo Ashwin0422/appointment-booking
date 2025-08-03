@@ -51,6 +51,12 @@ A modern healthcare appointment booking application built with React and Node.js
 
 ## 🌐 Deployment
 
+### Frontend Hosting
+The frontend application is hosted on **Vercel** and is available at:
+```
+https://appointment-booking-snowy-nu.vercel.app/
+```
+
 ### Backend Hosting
 The backend API is hosted on **Render** and is available at:
 ```
@@ -61,6 +67,17 @@ https://appointment-booking-susk.onrender.com
 
 > **Note**: The application might be slow because we are using free backend deployment. For production use, consider upgrading to a paid plan for better performance.
 
+## 🚧 Deployment Challenges
+
+### Frontend Issues
+- **404 Errors**: React Router routes not working on direct access
+- **Solution**: Switched from Netlify to Vercel (better React support)
+
+### Backend Issues  
+- **Slow Performance**: Free tier limitations on Render
+- **Solution**: Added loading states and performance optimizations
+
+> **Note**: Application may be slow due to free backend deployment.
 
 
 ## ✨ Features
