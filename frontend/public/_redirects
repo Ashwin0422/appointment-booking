@@ -1,7 +1,7 @@
-# Handle client-side routing
+# Redirect all routes to index.html for client-side routing
 /*    /index.html   200
 
-# Handle specific routes
+# Specific route redirects (backup)
 /login    /index.html   200
 /appointments    /index.html   200
 /doctor/*    /index.html   200 
